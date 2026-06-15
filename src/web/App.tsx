@@ -4,7 +4,7 @@ import { basicSetup } from "codemirror";
 import { FileCode2, Play, Trash2 } from "lucide-react";
 import type { PointerEvent as ReactPointerEvent } from "react";
 import { useEffect, useRef, useState } from "react";
-import { runSource } from "../language";
+import { runSource } from "sticks-lite";
 import { sticksLiteExtensions } from "./sticksLanguage";
 
 const STARTER_SOURCE = `say "Hello, world!"

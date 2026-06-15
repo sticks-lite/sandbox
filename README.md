@@ -28,7 +28,7 @@ npm run build
 - Auto-indent after block-opening lines ending in `:`.
 - Tab indentation.
 - Resizable editor/output split.
-- Embedded Sticks Lite interpreter for fully offline browser execution.
+- Runs code through the published `sticks-lite` npm package.
 
 ## License
 
