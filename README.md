@@ -2,6 +2,12 @@
 
 A standalone web IDE for Sticks Lite. It includes a browser editor, Sticks Lite syntax highlighting, built-in command completions, block auto-indent, Tab indentation, and a live output console.
 
+## Who this is for
+
+- Teachers and mentors who want a simple browser IDE for supervised Sticks Lite lessons.
+- Students writing and running one `main.slite` source file at a time.
+- Beginner computer-science workshops that need a focused `.slite` editor.
+
 ## Install
 
 ```sh
