@@ -7,7 +7,8 @@
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "tsc --noEmit && vite build",
-    "check": "npm run build"
+    "check": "npm run build",
+    "release:check": "npm run check"
   },
   "dependencies": {
     "@codemirror/autocomplete": "^6.19.0",
